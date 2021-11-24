@@ -5,7 +5,6 @@ author: seposer
 anrechnung: k oder a
 ---
 
-
 Die Luftfahrt- und Forschungsingenieurin Clarence Johnson (1910-1990) verwendete erstmals den Satz “Keep It Simple, Stupid”, aus Englisch "Halte es einfach, Dummkopf!". “Stupid” dem Satz eine flapsige, aber wohlmeinende Bedeutung gibt: "Zerbreche dir den Kopf nicht, wenn es auch einfach geht." Daraus entstand das KISS-Prinzip, welches heutzutage allerdings diverse Übersetzungen zur Grundlage haben kann.
 
 Das KISS-Prinzip kann als eine Methode des Selbstmanagements verstanden werden. Viele Menschen erreichen ihre Ziele nicht, weil sie sich zu viel vornehmen. Stattdessen müssen sie diese daher mehr „smart and simple“ formulieren. Etwas „simple“ zu halten bedeutet unter anderem, Ziele zeitlich zu terminieren und den Weg zum Ziel einzuteilen – wiederum mit terminierten Zwischenzielen.
