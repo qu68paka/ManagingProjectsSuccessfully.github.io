@@ -1,8 +1,8 @@
 ---
-title: **KISS_Prinzip
-tags: agil klassisch
-author: seposer
-anrechnung: k oder a
+title: KISS_Prinzip
+tags: klassisch
+author: qu68paka
+anrechnung: k
 ---
 
 Die Luftfahrt- und Forschungsingenieurin Clarence Johnson (1910-1990) verwendete erstmals den Satz “Keep It Simple, Stupid”, aus Englisch "Halte es einfach, Dummkopf!". “Stupid” dem Satz eine flapsige, aber wohlmeinende Bedeutung gibt: "Zerbreche dir den Kopf nicht, wenn es auch einfach geht." Daraus entstand das KISS-Prinzip, welches heutzutage allerdings diverse Übersetzungen zur Grundlage haben kann.
@@ -10,7 +10,7 @@ Die Luftfahrt- und Forschungsingenieurin Clarence Johnson (1910-1990) verwendete
 Das KISS-Prinzip kann als eine Methode des Selbstmanagements verstanden werden. Viele Menschen erreichen ihre Ziele nicht, weil sie sich zu viel vornehmen. Stattdessen müssen sie diese daher mehr „smart and simple“ formulieren. Etwas „simple“ zu halten bedeutet unter anderem, Ziele zeitlich zu terminieren und den Weg zum Ziel einzuteilen – wiederum mit terminierten Zwischenzielen.
 
 
-# [mehr Info zum KISS-Prinzip](https://startupwissen.biz/was-bedeutet-eigentlich-kiss/)
+
 
 
 
@@ -66,19 +66,18 @@ Die Einfachheit eines Produktes darf nicht dessen Nutzwert schmälern. Einige Pr
 
 
 # Siehe auch
-
-
-* [https://www.projektmagazin.de/glossarterm/kiss-prinzip](Das KISS-Prinzip im Projektmanagement)
-* [https://www.hklearning.ch/e-learning-meets-kiss/](E-Learning meets KISS)
-* [https://www.youtube.com/watch?v=9q_nI2AkpKI&ab_channel=PhilippevonHogendorf](Das KISS-Prinzip - Was ist das? / Wie kannst du es für dich nutzen?)
+* [mehr Info zum KISS-Prinzip]](https://startupwissen.biz/was-bedeutet-eigentlich-kiss)
+* [Das KISS-Prinzip im Projektmanagement](https://www.projektmagazin.de/glossarterm/kiss-prinzip)
+* [E-Learning meets KISS](https://www.hklearning.ch/e-learning-meets-kiss/)
+* [Das KISS-Prinzip - Was ist das? / Wie kannst du es für dich nutzen?](https://www.youtube.com/watch?v=9q_nI2AkpKI&ab_channel=PhilippevonHogendorf)
 
 
 # Quellen
 
-1. Das KISS-Prinzip für Design nutzbar machen, www.twt.de,(https://www.twt.de/news/detail/management-summary-das-kiss-prinzip-fuer-design-nutzbar-machen.html)
-2. Das KISS-Prinzip und wie es euch helfen kann, selbstaendig-im-netz.de, (https://www.selbstaendig-im-netz.de/usability/das-kiss-prinzip-und-wie-es-euch-helfen-kann/) 13. Februar 2017
-3. DAS KISS-PRINZIP FACHBEGRIFFE EINFACH ERKLÄRT, www.arocom.de, (https://www.arocom.de/fachbegriffe/projektmanagement/kiss-prinzip)
-4. Keep It Smart And Simple!, www.upgreat.de, (https://www.upgreat.de/keep-it-smart-and-simple-2943/), 27. SEPTEMBER 2019.
-5. KISS (-Prinzip), onma.de, (https://onma.de/online-marketing-lexikon/kiss-prinzip/)
-6. Was ist das KISS-Prinzip?, t2informatik.de, (https://t2informatik.de/wissen-kompakt/kiss-prinzip/)
-7. KISS-Prinzip, stock.adobe.com, (https://stock.adobe.com/de/images/kiss-prinzip/40606983?as_campaign=ftmigration2&as_channel=dpcft&as_campclass=brand&as_source=ft_web&as_camptype=acquisition&as_audience=users&as_content=closure_asset-detail-page)
+1. [Das KISS-Prinzip für Design nutzbar machen](https://www.twt.de/news/detail/management-summary-das-kiss-prinzip-fuer-design-nutzbar-machen.html)
+2. [Das KISS-Prinzip und wie es euch helfen kann](https://www.selbstaendig-im-netz.de/usability/das-kiss-prinzip-und-wie-es-euch-helfen-kann/)
+3. [DAS KISS-PRINZIP FACHBEGRIFFE EINFACH ERKLÄRT](https://www.arocom.de/fachbegriffe/projektmanagement/kiss-prinzip)
+4. [Keep It Smart And Simple!](https://www.upgreat.de/keep-it-smart-and-simple-2943/)
+5. [KISS (-Prinzip)](https://onma.de/online-marketing-lexikon/kiss-prinzip/)
+6. [Was ist das KISS-Prinzip?](https://t2informatik.de/wissen-kompakt/kiss-prinzip/)
+7. [KISS-Prinzip](https://stock.adobe.com/de/images/kiss-prinzip/40606983?as_campaign=ftmigration2&as_channel=dpcft&as_campclass=brand&as_source=ft_web&as_camptype=acquisition&as_audience=users&as_content=closure_asset-detail-page)
