@@ -32,7 +32,7 @@ Die beiden Buchstaben S in KISS können verschieden interpretiert werden. Für d
 4. Keep it simple and straightforward 
 4. Keep it simple and smart
 5. Keep it simple [and] stupid
-   *1. Keep it simply stupid*
+   *1. Keep it simply stupid*.
 
 ![KISS-Prinzip](KISS_Prinzip/500_F_40606983_EcXZHtkebO0aRseXhnKldBZSuqTTCv7G.jpg)
 Abbildung 2: KISS-Prinzip[^8]
